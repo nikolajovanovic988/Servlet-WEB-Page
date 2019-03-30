@@ -1,0 +1,15 @@
+<nav class="navbar navbar-default">
+
+	<a href="/" class="navbar-brand">Brand</a>
+
+	<ul class="nav navbar-nav">
+		<li><a href="/home.do">Home</a></li>
+		<li><a href="/list-todo.do">Todos</a></li>
+		<li><a href="/list-phonebook.do">Phonebook</a></li>
+	</ul>
+
+	<ul class="nav navbar-nav navbar-right">
+		<li><a href="/logout.do">Logout</a></li>
+	</ul>
+
+</nav>
